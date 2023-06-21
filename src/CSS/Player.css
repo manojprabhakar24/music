@@ -1,0 +1,29 @@
+.Player-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px;
+  gap: 10px;
+  align-content: flex-start;
+  justify-content: space-around;
+  overflow: auto;
+}
+.song-container {
+  display: flex;
+}
+.song-btn {
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+}
+.song-pic {
+  width: 200px;
+  height: 200px;
+}
+.song-container {
+  margin-bottom: 20px;
+}
+
+.song-pic {
+  margin: 10px;
+  border-radius: 20px;
+}
